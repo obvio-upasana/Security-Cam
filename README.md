@@ -10,7 +10,9 @@ A Python-based security application that uses facial recognition on live video f
   Database Management: Easily add "Authorized" faces via images.
 
   Logging: Timestamps and metadata for every detection event.
+
 ---
+
 🛠️ Tech Stack
   Language: Python (:>)
 
